@@ -1,3 +1,5 @@
+<a href="https://lemmaforstartups.com/"><img src="docs/logo.png" alt="Lemma for Startups" width="80"></a>
+
 # Founder back-office library
 
 Free guides, templates and tools for running the back office of a lean AI startup, seed to Series B: finance, operations and investor reporting. Free to read and use, no sign-up.
