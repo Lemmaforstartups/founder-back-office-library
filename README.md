@@ -2,7 +2,7 @@
 
 Free guides, templates and tools for running the back office of a lean AI startup, seed to Series B: finance, operations and investor reporting. Free to read and use, no sign-up.
 
-Maintained by [Lemma for Startups](https://lemmaforstartups.com/). Web version: https://anoopkansupada.github.io/founder-back-office-library/
+Maintained by [Lemma for Startups](https://lemmaforstartups.com/). Web version: https://lemmaforstartups.github.io/founder-back-office-library/
 
 ## Templates and tools
 
